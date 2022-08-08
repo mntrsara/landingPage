@@ -1,6 +1,7 @@
-# Landing page responsiva
+# Página de destino CHATBOT
+Landing page responsiva
 
-![screenshot](./img/exemplo.png "screenshot")
+- [ Demonstração ](https://mntrsara.github.io/landingPage/)
 
 ## Como contribuir
 
